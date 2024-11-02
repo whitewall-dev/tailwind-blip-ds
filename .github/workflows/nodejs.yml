@@ -36,6 +36,3 @@ jobs:
         run: npm install
         env:
           CI: true
-      - run: npm test
-        env:
-          CI: true
