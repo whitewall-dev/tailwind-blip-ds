@@ -1,6 +1,6 @@
 {
   "name": "@whitewall/tailwind-blip-ds",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A Tailwind CSS plugin for the Blip Design System.",
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -30,16 +30,16 @@
     "tailwindcss": ">=3.0.0 || insiders"
   },
   "devDependencies": {
-    "@next/mdx": "^8.1.0",
-    "autoprefixer": "^10.2.1",
-    "next": "^12.0.1",
-    "postcss": "^8.2.3",
-    "prettier": "^2.1.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "tailwindcss": "^3.2.2"
+    "@next/mdx": "8.1.0",
+    "autoprefixer": "10.2.1",
+    "next": "12.0.1",
+    "postcss": "8.2.3",
+    "prettier": "2.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "tailwindcss": "3.2.2"
   },
   "dependencies": {
-    "blip-tokens": "^1.85.0"
+    "blip-tokens": "1.85.0"
   }
 }
